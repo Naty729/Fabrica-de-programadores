@@ -1,0 +1,1 @@
+coca-cola | 5,00 | 5cereal | 15.0 | 5chocolate | 10.0 | 1banana | 3.5 | 3

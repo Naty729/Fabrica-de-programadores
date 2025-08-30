@@ -1,0 +1,2 @@
+(nome_completo) | (email)
+nathaly | nathaly_diniz@gmail.com
